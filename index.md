@@ -12,3 +12,6 @@ Das ist eine kurze Beschreibung des Charakters. Snoppy der Held.
 * Meer
 * ein gutes Buch
 
+Snoopy sais
+> Wir haben 365 opportunities
+
